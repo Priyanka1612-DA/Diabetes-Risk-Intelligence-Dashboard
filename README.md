@@ -151,7 +151,7 @@ This project was built to:
 
 ## 👩‍💻 Author
 
-**Priyanka Sharma**  
+**Priyanka Kumari**  
 Data Science Enthusiast | Machine Learning Developer  
 
 ---
