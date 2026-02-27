@@ -210,4 +210,5 @@ with tab3:
     st.dataframe(df, use_container_width=True)
 
 st.markdown("---")
-st.markdown("### 👩‍💻 Developed by Priyanka Sharma | Data Scientist")
+
+st.markdown("### 👩‍💻 Developed by Priyanka Kumari | Data Scientist")
